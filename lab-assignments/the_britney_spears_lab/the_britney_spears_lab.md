@@ -1,4 +1,4 @@
-# The Britney Spears Lab -- It's Britney.Bits()
+# The Britney Spears Lab: It's Britney.Bits()
 
 This is the section where I typically give some background on the problem set, but I shouldn't need to give any introduction to The Princess of Pop, Britney Spears. Hands down, "Toxic" is one of the greatest songs of all time. Okay, so, Britney might not be your thing, and I completely understand (you're wrong). However, from a song writing point of view, it is truly a masterpiece. For the complete breakdown on how much instrumentation, creativity, and talent went into creating this song, watch this wildly detailed video here [Understanding Toxic by 12tone](https://www.youtube.com/watch?v=q0QqS8QOErA&ab_channel=12tone).
 
