@@ -4,7 +4,7 @@ This is the section where I typically give some background on the problem set, b
 
 ![Example music program for human intepretation, more commonly called sheet music](sheet_music.png)
 
-*Figure 1 - Example music program for human intepretation, more commonly called sheet music.Spears, B. (2003). Toxic [Song]. On In the Zone. Jive Records.
+*Figure 1 - Example music program for human intepretation, more commonly called sheet music.Spears, B. (2003). Toxic [Song]. On In the Zone. Jive Records.*
 
 So, what does Britney have to do with programming? *Everything!* Music itself is a programmable action. Essentially, musicians perform a "program" of notes which are organized and communicated in, much like programming languages, a seemingly esoteric notation which communicates meaning to those who understand the language of sheet music. Any musician with knowledge of sheet music can then recreate songs on an instrument, but also many can hear it in their head. They have been trained or "programmed" for recreating music. The analogous skill for programmers will be your ability to read computer code and mentally recreate what it is accomplishing.
 
@@ -41,7 +41,7 @@ For this lab, you will write a method that plays a small melody of at least 12 n
 
 ![Display the name of the melody and play it](beep.png)
 
-*Figure - Display the name of the melody and play it. Pretend this screenshot is beeping at you, or make it say beep in the output, it's your program.*
+*Figure 2 - Display the name of the melody and play it. Pretend this screenshot is beeping at you, or make it say beep in the output, it's your program.*
 
 ## Resources
 
