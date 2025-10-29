@@ -19,8 +19,8 @@ For this lab, you will write a method that plays a small melody of at least 12 n
 - Create a static void method in your Program class which takes no parameters, and name it something appropriate, such as PlayMarioTheme() or PlayTheFinalCountdown(). Your beep commands will live here.
 
 - *In Main():*
-    - Print the name of the song to the user
-    - Invoke (call) your method
+  - Print the name of the song to the user
+  - Invoke (call) your method
 
 ## Notes
 
@@ -35,7 +35,6 @@ For this lab, you will write a method that plays a small melody of at least 12 n
 - If you need to add pauses, call Thread.Sleep(int), which accepts an int parameter as milliseconds. This will put your program to sleep for the time duration specified.
 
 - Have fun.
-
 
 ## Example Output
 
